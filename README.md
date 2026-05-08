@@ -20,7 +20,7 @@ Each folder contains:
 | 6 | [Hashing](./06_Hashing) | Fast access and retrieval using hash functions |
 | 7 | [Two Pointer Technique](./07_Two_Pointer) | Solving problems using two index pointers |
 | 8 | [Sliding Window](./08_Sliding_Window) | Optimizing range-based problems using a window of data |
-| 9 | [Kadane](./09%20Kadane) | Efficiently finding the maximum subarray sum in O(n) time |
+| 9 | [Kadane's Algorithm](./09%20Kadane%20Algorithm) | Efficiently finding the maximum subarray sum in O(n) time |
 
 > 🔧 More topics will be added as I progress!
 
