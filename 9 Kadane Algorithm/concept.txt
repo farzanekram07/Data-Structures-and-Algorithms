@@ -1,0 +1,10 @@
+what am i tracking?
+currentSum and maxSum
+
+what decision am i making?
+at every index extend or restart
+currentSum = max(currentSum + arr[i], arr[i])
+maxSum = max(maxSum, currentSum)
+
+why am i making that decision?
+to find the maximum subarray sum
